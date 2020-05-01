@@ -1,3 +1,3 @@
 ## Responsive Font Sizes
 
-An example of how to create respnsive font sizes using SASS.
+An example of how to create responsive font sizes using SASS.
